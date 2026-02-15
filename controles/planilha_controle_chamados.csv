@@ -1,0 +1,4 @@
+id_chamado,setor,descricao,prioridade,status,data_abertura,data_fechamento
+1,Financeiro,Erro em relatório,Alta,Concluído,2024-01-10,2024-01-12
+2,Comercial,Ajuste de cadastro,Média,Em andamento,2024-01-15,
+3,TI,Atualização de sistema,Alta,Pendente,2024-01-20,
