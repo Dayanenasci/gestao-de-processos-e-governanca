@@ -16,5 +16,9 @@ Demonstrar estruturação de fluxo, controle de demandas e definição de indica
 
 - Governança
 - Organização de processos
+
+## Automação e IA
+
+O processo foi projetado considerando automação com Power Automate e apoio de IA para classificação, comunicação e análise de recorrência, garantindo eficiência operacional e governança.
 - Controle e rastreabilidade
 - Melhoria contínua# gestao-de-processos-e-governanca
